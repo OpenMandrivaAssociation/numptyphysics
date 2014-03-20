@@ -1,0 +1,10 @@
+--- numptyphysics-0.3.3/happyhttp.cpp.fixclose	2012-09-01 01:07:51.000000000 +0400
++++ numptyphysics-0.3.3/happyhttp.cpp	2012-12-11 22:40:58.844846339 +0400
+@@ -34,6 +34,7 @@
+ 	#include <arpa/inet.h>
+ 	#include <netdb.h>	// for gethostbyname()
+ 	#include <errno.h>
++	#include <unistd.h>
+ #endif
+ 
+ #ifdef WIN32

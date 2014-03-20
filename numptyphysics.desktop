@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Numpty Physics
+Exec=numptyphysics
+Icon=numptyphysics
+Categories=Game;LogicGame;KidsGame;Simulation;
+Terminal=false
