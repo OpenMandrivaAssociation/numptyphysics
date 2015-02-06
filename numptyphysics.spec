@@ -1,7 +1,7 @@
 Summary:	A crayon-drawing based physics puzzle game 
 Name:		numptyphysics
 Version:	0.3.3
-Release:	2
+Release:	3
 License:	GPLv3+
 Group:		Games/Puzzles
 Url:		http://numptyphysics.garage.maemo.org/
