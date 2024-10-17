@@ -4,7 +4,7 @@ Version:	0.3.3
 Release:	3
 License:	GPLv3+
 Group:		Games/Puzzles
-Url:		http://numptyphysics.garage.maemo.org/
+Url:		https://numptyphysics.garage.maemo.org/
 # git clone git://github.com/harmattan/numptyphysics.git
 # cd numptyphysics
 # git archive --format=tar --prefix=numptyphysics-0.3.3/ 0.3.3 | \
